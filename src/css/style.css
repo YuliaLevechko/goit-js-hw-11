@@ -24,24 +24,25 @@
 }
 
 input {
-    width: 50%;
+    width: 40%;
     appearance: none;
     border: none;
     outline: none;
-    border-bottom: .2em solid #d07327;
+    border-bottom: .2em solid #078f5b;
     border-radius: .2em .2em 0 0;
     padding: .4em;
-    color: #d07327;
+    color: #078f5b;
 }
 
 input::placeholder {
-    color: #d07327;
+    color: #078f5b;
 }
 
 button {
     border-radius: 8px;
     border-style: none;
-    color: #d07327;
+    color: #fafafa;
+    background-color: #078f5b;
     cursor: pointer;
     height: 40px;
     padding: 10px 16px;
